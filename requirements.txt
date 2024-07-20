@@ -1,0 +1,7 @@
+torch
+opencv-python
+numpy
+ultralytics
+logging
+RPi.GPIO
+python-telegram-bot
