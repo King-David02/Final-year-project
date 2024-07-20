@@ -12,8 +12,8 @@ from telegram import Bot
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Telegram bot token and chat ID
-TELEGRAM_BOT_TOKEN = '7286035493:AAE7yhvAA3SsutESpwDQFkNNBZkmd185m58'
-TELEGRAM_CHAT_ID = '1228421829'  # Replace with your chat ID
+TELEGRAM_BOT_TOKEN = '# Replace with your telegram bot token'
+TELEGRAM_CHAT_ID = ' # Replace with your chat ID' 
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
 
 # Load YOLOv8n accident detection model
